@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a7a3345-b8c8-406d-b0d2-2e58da99af85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pKebt2ZQRJqCedFD0hCBN5Ybl8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Oblig 6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a7a3345-b8c8-406d-b0d2-2e58da99af85" name="Default Changelist" comment="" />
+      <created>1614936283082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614936283082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="950" y="443" key="#Customize_Data_Views" timestamp="1615278572596">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state x="950" y="443" key="#Customize_Data_Views/0.25.2560.1341@0.25.2560.1341" timestamp="1615278572595" />
+    <state x="997" y="428" key="#com.intellij.ide.util.MemberChooser" timestamp="1615212723045">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state x="997" y="428" key="#com.intellij.ide.util.MemberChooser/0.25.2560.1341@0.25.2560.1341" timestamp="1615212723045" />
+    <state x="922" y="459" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1614953116293">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state x="922" y="459" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.25.2560.1341@0.25.2560.1341" timestamp="1614953116293" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1615283901135">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.25.2560.1341@0.25.2560.1341" timestamp="1615283901135" />
+    <state width="2518" height="417" key="GridCell.Tab.0.bottom" timestamp="1615730492170">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.bottom/0.25.2560.1341@0.25.2560.1341" timestamp="1615730492170" />
+    <state width="2518" height="417" key="GridCell.Tab.0.center" timestamp="1615730492169">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.center/0.25.2560.1341@0.25.2560.1341" timestamp="1615730492169" />
+    <state width="2518" height="417" key="GridCell.Tab.0.left" timestamp="1615730492169">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.left/0.25.2560.1341@0.25.2560.1341" timestamp="1615730492169" />
+    <state width="2518" height="417" key="GridCell.Tab.0.right" timestamp="1615730492169">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.right/0.25.2560.1341@0.25.2560.1341" timestamp="1615730492169" />
+    <state width="2518" height="468" key="GridCell.Tab.1.bottom" timestamp="1615298919339">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.bottom/0.25.2560.1341@0.25.2560.1341" timestamp="1615298919339" />
+    <state width="2518" height="468" key="GridCell.Tab.1.center" timestamp="1615298919339">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.center/0.25.2560.1341@0.25.2560.1341" timestamp="1615298919339" />
+    <state width="2518" height="468" key="GridCell.Tab.1.left" timestamp="1615298919338">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.left/0.25.2560.1341@0.25.2560.1341" timestamp="1615298919338" />
+    <state width="2518" height="468" key="GridCell.Tab.1.right" timestamp="1615298919339">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.right/0.25.2560.1341@0.25.2560.1341" timestamp="1615298919339" />
+    <state x="672" y="287" key="SettingsEditor" timestamp="1614955570479">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state x="672" y="287" key="SettingsEditor/0.25.2560.1341@0.25.2560.1341" timestamp="1614955570479" />
+    <state x="945" y="344" width="670" height="676" key="search.everywhere.popup" timestamp="1615282621210">
+      <screen x="0" y="25" width="2560" height="1341" />
+    </state>
+    <state x="945" y="344" width="670" height="676" key="search.everywhere.popup/0.25.2560.1341@0.25.2560.1341" timestamp="1615282621210" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Oblig_6$Main.ic" NAME="Main Coverage Results" MODIFIED="1615205914222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
