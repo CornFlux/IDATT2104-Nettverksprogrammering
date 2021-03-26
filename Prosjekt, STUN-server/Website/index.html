@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type='text/javascript' src='https://cdn.scaledrone.com/scaledrone.min.js'></script>
+        <meta charset="utf-8"/>
+        <title>Website</title>
+        <link rel="stylesheet" href="./assets/styles.css"/>
+
+    </head>
+
+    <body>
+ 
+        <div>
+            <h1>Chat and video room</h1>
+            
+            <p id="display-messages"></p>
+            
+            <textarea id="text-write-area" rows="3" placeholder="Write your text message...">
+            </textarea>
+
+            <button id="sendButton">Send</button>
+            <button id="leaveChatButton">Leave chat</button>
+            
+            <video id="localVideo" autoplay muted></video>
+            <video id="remoteVideo" autoplay muted></video>
+
+            <br>
+            <br>
+
+        </div>
+
+        <script src="./main.js"></script>
+        
+    </body>
+</html>
